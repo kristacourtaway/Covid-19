@@ -1,4 +1,4 @@
-#Summary of the SQL Code
+Summary of the SQL Code
 
 The provided SQL code is a series of SQL queries and operations related to COVID-19 data analysis. The code focuses on COVID-19 cases, deaths, and vaccinations data, and it’s retrieving information from two tables: "CovidDeaths$" and "CovidVaccinations$" within a database named "Project_Portfolio."
 
