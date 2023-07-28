@@ -25,4 +25,4 @@ Comparison of total population versus the number of vaccinations given.
 Development of a Common Table Expression (CTE) and a temporary table to calculate the cumulative number of people vaccinated and the percentage of the population that has been vaccinated.
 Creation of a SQL view for easy data visualizations related to the percentage of the population vaccinated.
 
-Overall, the SQL scripts serve to provide a comprehensive understanding of the spread and impact of COVID-19, using death counts, infection rates, and vaccination metrics as key indicators. The inclusion of various SQL constructs like views, CTEs, and temp tables enables efficient data manipulation, ultimately aiding in the visualization and interpretation of these critical datasets.
+Overall, the SQL scripts provide a comprehensive understanding of the spread and impact of COVID-19, using death counts, infection rates, and vaccination metrics as key indicators. The inclusion of various SQL constructs like views, CTEs, and temp tables enables efficient data manipulation, ultimately aiding in the visualization and interpretation of these critical datasets.
