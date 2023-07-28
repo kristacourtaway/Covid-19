@@ -9,7 +9,7 @@ Extraction of location, date, total cases, new cases, total deaths, and populati
 
 Analysis of Deaths:
 Calculation of death percentage based on total cases and total deaths.
-Specific death percentage analysis for locations containing the word 'states', likely indicating the United States.
+Specific death percentage analysis for locations containing the word 'states', indicating the United States.
 
 Analysis of Infection Rates:
 Computation of the percentage of the population infected by COVID-19.
