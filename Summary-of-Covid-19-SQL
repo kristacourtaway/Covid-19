@@ -3,15 +3,15 @@
 Purpose: To gather and analyze data related to COVID-19, focusing on deaths, case counts, and vaccination rates at various granularities including by country, continent, and globally.
 
 General Queries:
-Retrieval of COVID-19 deaths data, filtering out records with null continents, and ordering by the third and fourth columns.
+Retrieval of COVID-19 death data, filtering out records with null continents, and ordering by the third and fourth columns.
 Retrieval of COVID-19 vaccination data without specific ordering.
 Extraction of location, date, total cases, new cases, total deaths, and population from the deaths data, ordered by location and date.
 
-Analysis on Deaths:
+Analysis of Deaths:
 Calculation of death percentage based on total cases and total deaths.
 Specific death percentage analysis for locations containing the word 'states', likely indicating the United States.
 
-Analysis on Infection Rates:
+Analysis of Infection Rates:
 Computation of the percentage of the population infected by COVID-19.
 Determination of countries with the highest infection rates compared to their population.
 Identification of countries with the highest death counts.
