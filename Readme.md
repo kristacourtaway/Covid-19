@@ -1,4 +1,4 @@
-##Summary-of-Covid-19-SQL-Code
+## Summary-of-Covid-19-SQL-Code
 
 Purpose: To gather and analyze data related to COVID-19, focusing on deaths, case counts, and vaccination rates at various granularities including by country, continent, and globally.
 
