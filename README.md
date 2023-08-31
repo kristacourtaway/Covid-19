@@ -1,6 +1,6 @@
 # Covid-19 SQL Code
 
-To gather and analyze data related to COVID-19, focusing on deaths, case counts, and vaccination rates at various granularities including by country, continent, and globally.
+Gathering and analyzing data related to COVID-19, focusing on deaths, case counts, and vaccination rates at various granularities, including by country, continent, and globally.
 
 General Queries:
 Retrieval of COVID-19 death data, filtering out records with null continents, and ordering by the third and fourth columns.
